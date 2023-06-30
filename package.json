@@ -28,6 +28,8 @@
     },
     "dependencies": {
         "chart.js": "^3.8.0",
+        "laravel-echo": "^1.15.1",
+        "pusher-js": "^8.2.0",
         "vue-chartjs": "^4.0.0"
     }
 }
